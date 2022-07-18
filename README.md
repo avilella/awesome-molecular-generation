@@ -21,6 +21,7 @@ Survey
 * [arXiv 2022] **Diffusion probabilistic modeling of protein backbones in 3D for the motif-scaffolding problem**  [[Paper]](https://arxiv.org/abs/2206.04119v1)
 <br><br>
 * [bioRxiv 2022] **Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models**. [[Paper]](https://www.biorxiv.org/content/10.1101/2022.07.10.499510v1)
+* [arXiv 2022] **LIMO: Latent Inceptionism for Targeted Molecule Generation**[[Paper]](https://arxiv.org/abs/2206.09010)[[Code]](https://github.com/rose-stl-lab/limo)
 
 2021
 ----------
